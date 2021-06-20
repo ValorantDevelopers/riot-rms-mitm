@@ -8,4 +8,4 @@ Start index.js file, ensure your game and RiotClientServices is not running and 
 ```
 
 ## Screenshot
-![](https://i.imgur.com/dgsB4gj.png)
+![](https://i.imgur.com/85MZdyB.png)
